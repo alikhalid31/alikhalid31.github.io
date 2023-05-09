@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "ALI KHALID"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Ali Khalid"
 description              : &description "personal description"
@@ -16,7 +16,7 @@ url                      : https://alikhalid31.github.io # the base hostname & p
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alikhalid31.github.io"
 teaser                   :  "534716a.jpg"
-breadcrumbs              : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
@@ -81,8 +81,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ali Khalid"
-  avatar           : "profile.png"
+  name             : 
+  avatar           : "534716a.png"
   bio              : 
   location         : 
   employer         :
