@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
- I am a Phd Student at Rochester Institute of Tecnology 
+I am doing Ph.D. at [Gollisano College of Computing and Information Science](https://www.rit.edu/computing/), located at [Rochester Institute of Technology](https://www.rit.edu/). Currenly, I am working in Mobile Systems Lab under the guidance of [Prof. Fawad Ahmed](https://fawadahm.github.io/). My research focuses on developing systems for improving performance and safety of self-driving cars. 
+ 
  
  Before that, I obtained a Bachelor's degree in Electrical Engineering from the University of Engineering and Technology Lahore, and my academic achievements earned me a place on the dean's honor list. 
 <!--- 
