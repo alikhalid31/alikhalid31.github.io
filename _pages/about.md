@@ -8,6 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am doing Ph.D. at [Gollisano College of Computing and Information Science](https://www.rit.edu/computing/), located at [Rochester Institute of Technology](https://www.rit.edu/). Currenly, I am working in Networked Sensing Systems Lab under the guidance of [Prof. Fawad Ahmed](https://fawadahm.github.io/). My research focuses on developing systems for improving performance and safety of self-driving cars. 
- 
-Before Joining RIT, I worked as a Research Assistant at the [Lahore University of Management Science (LUMS)](https://sbasse.lums.edu.pk/). During my research here, I concentrated on using satellite data together with deep learning to develop a data-driven approach for the creation of sustainable urban communities. Prior to this, I was a Research Assistant at the [Information Technology University](https://itu.edu.pk/), where I worked on 3D computer vision. My research aimed to improve the robustness of Structure From Motion by substituting traditional modules in the pipeline with deep learning modules. Before that, I obtained a Bachelor's degree in Electrical Engineering from the [University of Engineering and Technology Lahore](https://www.uet.edu.pk/), and my academic achievements earned me a place on the dean's honor list. 
+
+Hi, I’m Ali! I’m a Ph.D. candidate at [RIT](https://www.rit.edu/) in the Golisano College of Computing and Information Sciences, where I’m part of the Networked Sensing Systems Lab. I work with [Prof. Fawad Ahmed](https://fawadahm.github.io/) on research focused on making the perception, processing, and representation of 3D data smarter, safer, and more efficient — with applications in autonomous vehicles and sports analytics. At a broader level, I’m passionate about designing systems that have real-world impact and improve how we interact with complex 3D data.
+
+My research journey has taken a few interesting turns. Before RIT, I was at [LUMS](https://sbasse.lums.edu.pk/), where I worked on using satellite data and deep learning to support sustainable urban development. Even earlier, at the [ITU](https://itu.edu.pk/), I dived into 3D computer vision and experimented with ways to make Structure from Motion pipelines more robust using deep learning.
+
+I started out in Electrical Engineering at [UET Lahore](https://www.uet.edu.pk/), where I was honored to be on the Dean’s List — and somewhere along the way, I discovered my love for research that connects AI, systems, and real-world impact.
+
+Outside of research, I’m always curious about new tech, enjoy working on side projects, and love finding ways to make complex ideas simple.
