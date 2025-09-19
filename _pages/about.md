@@ -30,16 +30,19 @@ Outside of research, I’m always curious about new tech, enjoy working on side 
 
 ### 2024  
 - I will be attending **MobiCom ’24**.  
-- I receive a **travel award** from RIT Student Government.  
+- I received a **travel award** from RIT Student Government.
+- An article is published on the RIT website highlighting our recent paper at **MobiSys ’24**.  
+- I will be judging project presentations for undergraduate students in the Computer Vision course at RIT’s Computer Science Department.  
 - [**Paper Acceptance**] Our paper is accepted at **MobiSys ’24**.  
 
 ### 2023  
-- I pass my **Research Potential Assessment**, the first milestone of the Ph.D. program.  
+- I passed my **Research Potential Assessment**, the first milestone of the Ph.D. program.  
 
 # Talks  
-
+- *Unlocking PhD Opportunities*, UET Lahore (Google Meet), 2024
 - *Autonomous Vehicle LiDAR Data Compression*, RIT Computer Science Department, 2024.  
-- *3D Data Sensing and Processing*, RIT Computer Science Department, 2024.  
+- *3D Data Sensing and Processing*, RIT Computer Science Department, 2024.
+- *Leveraging Spatiotemporal Relationships to Reduce Storage Requirements of Autonomous Vehicle Data*, RIT, 2023.  
 
   
   
