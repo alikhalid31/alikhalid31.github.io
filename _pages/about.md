@@ -17,7 +17,6 @@ I also completed an internship at [Nokia Bell Labs](https://www.nokia.com/bell-l
 
 Outside of research, I’m always curious about new tech, enjoy working on side projects, and love finding ways to make complex ideas simple.
 
-#### Publications
-### Publications
-## Publications
 # Publications
+- [**SenSys '26**] Been There, Scanned That: Nostalgia-Driven LiDAR Compression for Self-Driving Cars. [*Link Coming soon*]
+- [**MobiSys '24**] VRF: Vehicle Road-side Point Cloud Fusion. [link](https://dl.acm.org/doi/10.1145/3643832.3661874)
