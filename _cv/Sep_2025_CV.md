@@ -1,5 +1,5 @@
 ---
-title: "ALi Khalid CV"
+title: "Ali Khalid CV"
 collection: cv
 permalink: /cv/Sep_2025_CV
 date: 2025-09-29
