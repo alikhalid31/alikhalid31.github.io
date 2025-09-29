@@ -1,6 +1,6 @@
 ---
 title: "Ali Khalid CV"
-collection: publications
+collection: cv
 permalink: /cv/Sep_2025_CV
 date: 2025-09-29
 ---
