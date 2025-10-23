@@ -24,6 +24,7 @@ Outside of research, I’m always curious about new tech, enjoy working on side 
 # News  
 
 ### 2025  
+- I will be serving as a shadow reviewer for **EuroSys '26**
 - [**Paper Acceptance**] Our paper is accepted at **SenSys ’26**.  
 - I am appointed as a Teaching Assistant for the *Foundations of Computer Vision* course (Fall 2025, graduate level).  
 - I am starting an internship at **Nokia Bell Labs**.  
