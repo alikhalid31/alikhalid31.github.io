@@ -22,7 +22,9 @@ Outside of research, I’m always curious about new tech, enjoy working on side 
 - [**MobiSys '24**] VRF: Vehicle Road-side Point Cloud Fusion. [link](https://dl.acm.org/doi/10.1145/3643832.3661874)
 
 # News  
-
+### 2026 
+- I will be serving as a reviewer for **IEEE T-ASE**
+- I will be serving as a reviewer for **Mobility 26**
 ### 2025  
 - I will be serving as a shadow reviewer for **EuroSys '26**
 - [**Paper Acceptance**] Our paper is accepted at **SenSys ’26**.  
