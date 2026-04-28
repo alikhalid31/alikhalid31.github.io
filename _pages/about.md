@@ -24,7 +24,8 @@ Outside of research, I’m always curious about new tech, enjoy working on side 
 # News  
 ### 2026 
 - I will be serving as a reviewer for **IEEE T-ASE**
-- I will be serving as a reviewer for **Mobility 26**
+- I will be serving as a reviewer for **DIGITAL 26**
+- I will be serving as a reviewer for **MOBILITY 26**
   
 ### 2025  
 - I will be serving as a shadow reviewer for **EuroSys '26**
